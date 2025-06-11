@@ -16,7 +16,7 @@ export default function App() {
           <br />
           Go ahead and edit{" "}
           <code className="bg-pink-100 px-2 py-1 rounded font-mono text-pink-700">
-            src/App.jsx
+            app/page.js
           </code>{" "}
           to get started and turn this into a masterpiece.
         </p>
